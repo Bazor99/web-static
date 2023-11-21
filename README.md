@@ -1,2 +1,2 @@
 # web-static
-click to visit website: https://bazor99.github.io/
+click to visit website: https://bazor99.github.io/web-static/
